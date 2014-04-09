@@ -1,0 +1,9 @@
+.editable{
+	border: solid 3px salmon;
+}
+hr{
+	width: 70%;
+	border-color: #666;
+	border-radius: 5px;
+	margin: 0% 0% 1% 0%;
+}

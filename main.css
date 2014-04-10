@@ -1,4 +1,4 @@
-.editable{
+.etable{
 	border: solid 3px salmon;
 }
 hr{
@@ -7,3 +7,18 @@ hr{
 	border-radius: 5px;
 	margin: 0% 0% 1% 0%;
 }
+
+.userinput {
+	width: 50%;
+	border: solid 3px salmon;
+	height: 10em;
+	border-radius: 2%;
+}
+
+.edittext {
+	width: 50%;
+	border: solid 3px salmon;
+	height: 10em;
+	border-radius: 2%;
+}
+
